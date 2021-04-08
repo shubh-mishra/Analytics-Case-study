@@ -1,5 +1,5 @@
-# Pandas Basic Exercises
-# Analytics-Case-studies :
+# Pandas Exercises
+# Learn Pandas by solving these Analytics-Case-studies :
    1. Retail Case study
    2. Python Visualisation
    3. Insurance Case study
